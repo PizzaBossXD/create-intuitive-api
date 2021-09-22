@@ -1,0 +1,30 @@
+{
+  "name": "create-intuitive-api",
+  "version": "1.0.0",
+  "description": "An official CLI to start a new project with the Intuitive API",
+  "main": "index.js",
+  "bin": {
+    "@pizzaboss/create-intuitive-api": "index.js",
+    "create-intuitive-api": "index.js"
+  },
+  "publishConfig": {
+	"access": "public"
+   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PizzaBossXD/intuitive-api.git"
+  },
+  "keywords": [
+	"cli",
+	"express",
+	"api",
+	"intuitive",
+	"easy",
+	"easy-api"
+  ],
+  "author": "PizzaBoss (GitHub: https://github.com/PizzaBossXD)",
+  "license": "ISC"
+}
