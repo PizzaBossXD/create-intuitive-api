@@ -8,8 +8,8 @@
     "create-intuitive-api": "index.js"
   },
   "publishConfig": {
-	"access": "public"
-   },
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,12 +18,12 @@
     "url": "https://github.com/PizzaBossXD/intuitive-api.git"
   },
   "keywords": [
-	"cli",
-	"express",
-	"api",
-	"intuitive",
-	"easy",
-	"easy-api"
+    "cli",
+    "express",
+    "api",
+    "intuitive",
+    "easy",
+    "easy-api"
   ],
   "author": "PizzaBoss (GitHub: https://github.com/PizzaBossXD)",
   "license": "ISC"

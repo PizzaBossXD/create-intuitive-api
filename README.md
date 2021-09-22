@@ -17,7 +17,7 @@ yarn global add create-intuitive-api
 
 ```sh
 # With CLI installed
-create-express-api name
+create-intuitive-api name
 # With npx command prefix
 npx create-intuitive-api name
 ```
