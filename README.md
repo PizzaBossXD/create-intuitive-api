@@ -22,4 +22,4 @@ create-intuitive-api name
 npx create-intuitive-api name
 ```
 
-This will create a directory with the given name, clone the [Intuitive API starter](https://github.com/PizzaBossXD/intuitive-api) repository into it, and install needed dependencies.
+This will create a directory with the given name, clone the [Intuitive API](https://github.com/PizzaBossXD/intuitive-api) repository into it, and install needed dependencies.
