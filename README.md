@@ -22,4 +22,12 @@ create-intuitive-api name
 npx create-intuitive-api name
 ```
 
+# With TypeScript support [This](https://github.com/PizzaBossXD/intuitive-api-ts)
+```sh
+# With CLI installed
+create-intuitive-api name --ts
+# With npx command prefix
+npx create-intuitive-api name --ts
+```
+
 This will create a directory with the given name, clone the [Intuitive API](https://github.com/PizzaBossXD/intuitive-api) repository into it, and install needed dependencies.
