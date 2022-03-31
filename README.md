@@ -22,7 +22,7 @@ create-intuitive-api name
 npx create-intuitive-api name
 ```
 
-# With TypeScript support [This](https://github.com/PizzaBossXD/intuitive-api-ts)
+# With TypeScript support ([This](https://github.com/PizzaBossXD/intuitive-api-ts))
 ```sh
 # With CLI installed
 create-intuitive-api name --ts
